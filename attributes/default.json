@@ -19,7 +19,7 @@
   "enable_ssl": false,
   "environment": {
       "S3REGION": "us-east-1",
-      "BUCKET": "edlyntech-public",
+      "BUCKET": "janenongnicca640",
       "FILENAME": "default.html"
   },
   "name": "BallotOnline IIS",
